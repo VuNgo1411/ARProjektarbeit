@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-81.7002 -2.4552 7.1780 -67.4091 3.1153 41.8360" targetId="2b9820d862764192b706b96c22277112" name="mensa_authoring_target" pathAuthoring="2b9820d862764192b706b96c22277112_authoring.glb" pathOcclusion="2b9820d862764192b706b96c22277112_occlusion.3dt" pathNavMesh="2b9820d862764192b706b96c22277112_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
