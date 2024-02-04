@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-55.6786 -1.9795 84.8699 -27.4720 1.0890 141.4991" targetId="d72813983433489d98836678ea11cfa9" name="weg52_authoring_target" pathAuthoring="d72813983433489d98836678ea11cfa9_authoring.glb" pathOcclusion="d72813983433489d98836678ea11cfa9_occlusion.3dt" pathNavMesh="d72813983433489d98836678ea11cfa9_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

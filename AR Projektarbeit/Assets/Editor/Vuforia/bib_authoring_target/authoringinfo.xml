@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-14.2395 -1.3748 -2.6602 5.3187 1.9239 20.7343" targetId="430f5aee2ab348178c7411700038eb43" name="bib_authoring_target" pathAuthoring="430f5aee2ab348178c7411700038eb43_authoring.glb" pathOcclusion="430f5aee2ab348178c7411700038eb43_occlusion.3dt" pathNavMesh="430f5aee2ab348178c7411700038eb43_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
